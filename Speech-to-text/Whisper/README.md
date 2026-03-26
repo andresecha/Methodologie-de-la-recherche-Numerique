@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **🌍 Bilingual Repository / Dépôt Bilingue / Repositorio Bilingüe**
+> **🌍 Répo Bilingue / Repositorio Bilingüe**
 > - [🇫🇷 Lire en Français](#-français)
 > - [🇪🇸 Leer en Español](#-español)
 

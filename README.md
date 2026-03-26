@@ -1,6 +1,6 @@
 # 📚 Méthodologie de la Recherche Numérique / Metodología de la Investigación Digital
 
-> **🌍 Bilingual Repository / Dépôt Bilingue / Repositorio Bilingüe**
+> **🌍 Répo Bilingue / Repositorio Bilingüe**
 > - [🇫🇷 Lire en Français](#-français)
 > - [🇪🇸 Leer en Español](#-español)
 

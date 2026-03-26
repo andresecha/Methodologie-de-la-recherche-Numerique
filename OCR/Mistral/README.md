@@ -1,7 +1,8 @@
 # 📄 Mistral OCR: Guide Méthodologique pour la Recherche Numérique / Guía Metodológica para la Investigación Digital
 
-*Scroll down for the Spanish version / Versión en español más abajo* 🇪🇸
-
+> **🌍 Répo Bilingue / Repositorio Bilingüe**
+> - [🇫🇷 Lire en Français](#-français)
+> - [🇪🇸 Leer en Español](#-español)
 ---
 
 ## 🇫🇷 Français
