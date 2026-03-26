@@ -1,40 +1,6 @@
-# 📄 Mistral OCR: Guía Metodológica para la Investigación Digital / Guide Méthodologique pour la Recherche Numérique
+# 📄 Mistral OCR: Guide Méthodologique pour la Recherche Numérique / Guía Metodológica para la Investigación Digital
 
-*Scroll down for the French version / Versión en francés más abajo* 🇫🇷
-
----
-
-## 🇪🇸 Español
-
-### ¿Cómo convertir documentos impresos y manuscritos en textos explotables?
-
-Bienvenido/a a la guía metodológica para el reconocimiento óptico de documentos utilizando **Mistral OCR** (desarrollado por Mistral AI). Este repositorio contiene cuadernos de Jupyter (Google Colab) diseñados específicamente para investigadores en Ciencias Humanas y Sociales que necesitan extraer texto estructurado, tablas, imágenes y ecuaciones de documentos complejos.
-
-Este proyecto ha sido desarrollado por **Andrés Echavarría** y **Théo Roulet** como parte del *Grupo de interés en adquisición asistida de textos* del Consorcio Huma-Num ARIANE.
-
-### 🎯 ¿Qué hace este cuaderno?
-
-A diferencia del OCR tradicional que a menudo pierde el formato, Mistral OCR es un **modelo de comprensión documental**. Este cuaderno te enseña a:
-
-- **Extraer texto estructurado:** Salida en Markdown conservando títulos, listas y párrafos.
-- **Reconocer tablas:** Extracción en formato Markdown o HTML.
-- **Extraer imágenes incrustadas:** Identificar y guardar figuras y fotografías contenidas en el PDF.
-- **Procesar ecuaciones:** Reconocimiento de expresiones matemáticas en LaTeX.
-- **Soportar múltiples lenguas:** Procesamiento de documentos en alfabetos latino, árabe, chino, griego, hebreo, etc.
-
-### 🚀 Cómo empezar
-
-El flujo de trabajo está pensado para ejecutarse de manera óptima en **Google Colab** (no requiere GPU).
-
-1. **Requisito previo:** Necesitas una clave API de Mistral. Puedes obtenerla creando una cuenta gratuita en [console.mistral.ai](https://console.mistral.ai).
-2. **Abrir el cuaderno:** Abre el archivo `.ipynb` correspondiente a tu idioma preferido (ES o FR) en Google Colab.
-3. **Seguir los pasos:** La guía está dividida en dos modos principales:
-   - **MODO A:** Para procesar un PDF que ya está publicado en línea (mediante URL).
-   - **MODO B:** Para subir y procesar un PDF local desde tu ordenador.
-
-### 📝 Cómo citar esta guía
-
-> Echavarría, Andrés; Roulet, Théo. *Guía metodológica para el reconocimiento óptico de documentos con Mistral OCR (Mistral AI)*. Grupo de interés en adquisición automática de textos, Consorcio Huma-Num ARIANE. [Cuaderno Jupyter Google Colab], versión 1.0, marzo de 2026.
+*Scroll down for the Spanish version / Versión en español más abajo* 🇪🇸
 
 ---
 
@@ -72,5 +38,38 @@ Le flux de travail est conçu pour s'exécuter de manière optimale sur **Google
 
 ---
 
-*Desarrollado con ❤️ y ☕ para la comunidad de Humanidades Digitales.*
+## 🇪🇸 Español
 
+### ¿Cómo convertir documentos impresos y manuscritos en textos explotables?
+
+Bienvenido/a a la guía metodológica para el reconocimiento óptico de documentos utilizando **Mistral OCR** (desarrollado por Mistral AI). Este repositorio contiene cuadernos de Jupyter (Google Colab) diseñados específicamente para investigadores en Ciencias Humanas y Sociales que necesitan extraer texto estructurado, tablas, imágenes y ecuaciones de documentos complejos.
+
+Este proyecto ha sido desarrollado por **Andrés Echavarría** y **Théo Roulet** como parte del *Grupo de interés en adquisición asistida de textos* del Consorcio Huma-Num ARIANE.
+
+### 🎯 ¿Qué hace este cuaderno?
+
+A diferencia del OCR tradicional que a menudo pierde el formato, Mistral OCR es un **modelo de comprensión documental**. Este cuaderno te enseña a:
+
+- **Extraer texto estructurado:** Salida en Markdown conservando títulos, listas y párrafos.
+- **Reconocer tablas:** Extracción en formato Markdown o HTML.
+- **Extraer imágenes incrustadas:** Identificar y guardar figuras y fotografías contenidas en el PDF.
+- **Procesar ecuaciones:** Reconocimiento de expresiones matemáticas en LaTeX.
+- **Soportar múltiples lenguas:** Procesamiento de documentos en alfabetos latino, árabe, chino, griego, hebreo, etc.
+
+### 🚀 Cómo empezar
+
+El flujo de trabajo está pensado para ejecutarse de manera óptima en **Google Colab** (no requiere GPU).
+
+1. **Requisito previo:** Necesitas una clave API de Mistral. Puedes obtenerla creando una cuenta gratuita en [console.mistral.ai](https://console.mistral.ai).
+2. **Abrir el cuaderno:** Abre el archivo `.ipynb` correspondiente a tu idioma preferido (ES o FR) en Google Colab.
+3. **Seguir los pasos:** La guía está dividida en dos modos principales:
+   - **MODO A:** Para procesar un PDF que ya está publicado en línea (mediante URL).
+   - **MODO B:** Para subir y procesar un PDF local desde tu ordenador.
+
+### 📝 Cómo citar esta guía
+
+> Echavarría, Andrés; Roulet, Théo. *Guía metodológica para el reconocimiento óptico de documentos con Mistral OCR (Mistral AI)*. Grupo de interés en adquisición automática de textos, Consorcio Huma-Num ARIANE. [Cuaderno Jupyter Google Colab], versión 1.0, marzo de 2026.
+
+---
+
+*Développé avec / Desarrollado con ❤️ y ☕ pour la communauté des Humanités Numériques / para la comunidad de Humanidades Digitales.*
