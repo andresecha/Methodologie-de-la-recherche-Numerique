@@ -82,4 +82,7 @@ El cuaderno está estructurado lógicamente por fases de procesamiento:
 
 ---
 
-*Développé avec / Desarrollado con ❤️ y ☕ pour la communauté des Humanités Numériques / para la comunidad de Humanidades Digitales.*
+*Développé avec ❤️ et ☕ pour la communauté des Humanités Numériques.*
+
+
+*Desarrollado con ❤️ y ☕ para la comunidad de Humanidades Digitales.*

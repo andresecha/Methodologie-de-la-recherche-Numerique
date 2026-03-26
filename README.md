@@ -74,4 +74,8 @@ Si utilizas estas guías en tu investigación, por favor utiliza las siguientes 
 
 ---
 
-*Développé avec / Desarrollado con ❤️ y ☕ pour la communauté des Humanités Numériques / para la comunidad de Humanidades Digitales.*
+
+*Développé avec ❤️ et ☕ pour la communauté des Humanités Numériques.*
+
+
+*Desarrollado con ❤️ y ☕ para la comunidad de Humanidades Digitales.*
