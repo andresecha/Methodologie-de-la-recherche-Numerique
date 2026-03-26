@@ -72,4 +72,5 @@ Le flux de travail est conçu pour s'exécuter de manière optimale sur **Google
 
 ---
 
-*Desarrollado con 💻 y ☕ para la comunidad de Humanidades Digitales.*
+*Desarrollado con ❤️ y ☕ para la comunidad de Humanidades Digitales.*
+

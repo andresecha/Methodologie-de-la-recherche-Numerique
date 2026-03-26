@@ -81,3 +81,7 @@ whisper "audio.mp3" --model turbo --language French --output_format all --output
 
 ### 📝 Citation
 > Echavarría, Andrés. *Guide méthodologique pour la transcription automatique de l'audio avec Whisper (OpenAI)*. Groupe d'intérêt « Acquisition assitée de textes », Consortium Huma-Num ARIANE. [Carnet Jupyter Google Colab], version 1.0, mars 2026.
+
+---
+
+*Desarrollado con ❤️ y ☕ para la comunidad de Humanidades Digitales.*
